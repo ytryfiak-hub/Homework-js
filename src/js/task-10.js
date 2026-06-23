@@ -46,3 +46,4 @@ function createBoxes(amount){
 function destroyBoxes() {
   boxesContainer.innerHTML = '';
 }
+
