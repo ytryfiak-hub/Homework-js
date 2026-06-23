@@ -19,4 +19,3 @@ const elements = ingredients.map(ingredient =>{
 });
 
 list.append(...elements);
-

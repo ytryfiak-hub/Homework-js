@@ -10,3 +10,4 @@ categories.forEach(categories =>{
     console.log(`Elements: ${elements.length}`);
 
 })
+
